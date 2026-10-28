@@ -46,3 +46,17 @@ The complete analysis, screenshots, methodology, findings, and recommendations a
 The objective of NetTrace is to demonstrate practical ability to **capture, filter, investigate, interpret, and document network traffic using Wireshark** in a security-focused investigation workflow.
 
 > **Note:** This project was performed using an authorized home-LAN packet capture. The raw PCAP is not included to protect private network and DNS information.
+
+
+---
+
+## Portfolio navigation
+
+This repository is part of my hands-on cybersecurity learning portfolio by **Alen Sales K S**. I document lab work to make the methodology, evidence, limitations, and lessons learned easier to review.
+
+- [Active Directory SOC & PAM Lab](https://github.com/zales2004/Enterprise-Active-Directory-Pam-Soc-Lab)
+- [Splunk SOC L1 Investigation](https://github.com/zales2004/splunk-soc-l1-incident-investigation)
+
+## Scope and responsible use
+
+All security testing described here is for authorized training environments, intentionally vulnerable targets, or systems I own or have permission to assess. Findings should be interpreted in the context of the documented lab and supporting evidence; they should not be treated as proof of compromise on unrelated real-world systems.
